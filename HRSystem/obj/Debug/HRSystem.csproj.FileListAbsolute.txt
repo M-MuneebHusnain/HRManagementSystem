@@ -1,0 +1,28 @@
+D:\University\Programming\Assignment\Assignment2\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+D:\University\Programming\Assignment\Assignment2\HRSystem\HRSystem\bin\Debug\HRSystem.exe
+D:\University\Programming\Assignment\Assignment2\HRSystem\HRSystem\bin\Debug\HRSystem.pdb
+D:\University\Programming\Assignment\Assignment2\HRSystem\HRSystem\obj\Debug\HRSystem.csprojAssemblyReference.cache
+D:\University\Programming\Assignment\Assignment2\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.CoreCompileInputs.cache
+D:\University\Programming\Assignment\Assignment2\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+D:\University\Programming\Assignment\Assignment2\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+C:\Users\muham\Desktop\Assignment2\HRSystem 22\HRSystem\bin\Debug\HRSystem.exe.config
+C:\Users\muham\Desktop\Assignment2\HRSystem 22\HRSystem\bin\Debug\HRSystem.exe
+C:\Users\muham\Desktop\Assignment2\HRSystem 22\HRSystem\bin\Debug\HRSystem.pdb
+C:\Users\muham\Desktop\Assignment2\HRSystem 22\HRSystem\obj\Debug\HRSystem.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Assignment2\HRSystem 22\HRSystem\obj\Debug\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Assignment2\HRSystem 22\HRSystem\obj\Debug\HRSystem.exe
+C:\Users\muham\Desktop\Assignment2\HRSystem 22\HRSystem\obj\Debug\HRSystem.pdb
+C:\Users\muham\Desktop\Assignment2\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+C:\Users\muham\Desktop\Assignment2\HRSystem\HRSystem\bin\Debug\HRSystem.exe
+C:\Users\muham\Desktop\Assignment2\HRSystem\HRSystem\bin\Debug\HRSystem.pdb
+C:\Users\muham\Desktop\Assignment2\HRSystem\HRSystem\obj\Debug\HRSystem.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Assignment2\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Assignment2\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+C:\Users\muham\Desktop\Assignment2\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
+C:\Users\muham\Desktop\HRSystem\HRSystem\bin\Debug\HRSystem.exe.config
+C:\Users\muham\Desktop\HRSystem\HRSystem\bin\Debug\HRSystem.exe
+C:\Users\muham\Desktop\HRSystem\HRSystem\bin\Debug\HRSystem.pdb
+C:\Users\muham\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.exe
+C:\Users\muham\Desktop\HRSystem\HRSystem\obj\Debug\HRSystem.pdb
